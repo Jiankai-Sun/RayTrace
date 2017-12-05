@@ -13,6 +13,6 @@ This code is originally run on Visual Studio C++ .NET 2003. After update to Visu
 * In `Release` Mode, `x86` Platform, build the entire solution with `Local Windows Debugger` 
 
 ## Acknowledgement
-[Ray Trace software package, release 3.3.](http://www.math.ucsd.edu/~sbuss/MathCG/RayTrace/), Author: Sam Buss, Univ. of California, San Diego
+[Ray Trace software package, release 3.3](http://www.math.ucsd.edu/~sbuss/MathCG/RayTrace/), Author: Sam Buss, Univ. of California, San Diego
 
 [Ray Trace 3.0 - Software Overview](https://www.math.ucsd.edu/~sbuss/MathCG/RayTrace/raytrace_3.0_intro.html)
